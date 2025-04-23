@@ -1,1 +1,19 @@
-site_name: My Docs
+theme:
+  name: mkdocs
+  language: zh
+  nav_style: dark
+# theme:
+#   name: readthedocs
+
+
+site_name: 胡揚嘉博客
+nav:
+  - 主页   : index.md
+  - 摘抄   :
+    - 前言 : extract_classical_Chinese_poem\foreword.md
+    - 内容 : extract_classical_Chinese_poem\content.md
+  - 大学生涯 :
+    - 前言 : college_life\foreword.md
+    - 内容 : college_life\content.md
+  - 关于我 : about.md
+  

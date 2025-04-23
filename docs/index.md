@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# <p align = "center">胡揚嘉博客 </p>
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 关于本文
+> 详见[我的前言](./about.md)
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 组成     
+目前组成如下        
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+1. [点滴摘抄](./extract_classical_Chinese_poem/foreword.md)     
+2. 大学生涯   
